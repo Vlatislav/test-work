@@ -1,0 +1,21 @@
+#addBtn{
+    margin-left: 0.5rem;
+}
+
+#addRisk{
+    display: flex;
+    flex-direction: column;
+}
+
+#addRisk input {
+    margin-bottom: 0.3em;
+}
+
+input{
+    height: 2rem;
+}
+
+select{
+    margin-bottom: 0.3em;
+    height: 2.4rem;
+}
